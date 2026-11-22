@@ -1,0 +1,43 @@
+{
+  "retrieval_date_utc": "2026-11-21 14:44",
+  "tickers_retrieval_date_utc": "2026-11-20 18:40",
+  "source_tickers": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "source_prices": "Yahoo Finance via yfinance 1.8.0",
+  "start": "2021-01-01",
+  "end_exclusive": "2025-01-01",
+  "auto_adjust": false,
+  "observation_date": "2024-12-31",
+  "rfm_window": [
+    "2024-10-07",
+    "2024-12-31"
+  ],
+  "weekly_labels": [
+    "2021-01-15",
+    "2024-12-27"
+  ],
+  "aligned_weekly_obs": 207,
+  "n_constituents": 503,
+  "n_included": 486,
+  "n_common_set": 486,
+  "selected_k": {
+    "risk_return": {
+      "ward": 2,
+      "kmeans": 2
+    },
+    "rfm": {
+      "ward": 2,
+      "kmeans": 2
+    }
+  },
+  "seed": 42,
+  "n_init": 50,
+  "package_versions": {
+    "python": "3.14.7",
+    "pandas": "3.0.6",
+    "numpy": "2.5.3",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "yfinance": "1.8.0"
+  }
+}

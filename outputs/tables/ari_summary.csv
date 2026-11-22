@@ -1,0 +1,6 @@
+comparison,ARI
+Risk/return: Ward vs K-means,0.59755503175211
+RFM: Ward vs K-means,0.6998191613914165
+Ward risk/return vs Ward RFM,0.028532063133793743
+Ward RFM vs Ward RF (M removed),0.8734706265744828
+Ward RFM vs Ward RFM with log1p(R) (robustness),0.7815744634282813

@@ -1,0 +1,9 @@
+{
+  "retrieval_date_utc": "2026-11-21 14:44",
+  "tickers_retrieval_date_utc": "2026-11-20 18:40",
+  "source_tickers": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "source_prices": "Yahoo Finance via yfinance 1.8.0",
+  "start": "2021-01-01",
+  "end_exclusive": "2025-01-01",
+  "auto_adjust": false
+}
